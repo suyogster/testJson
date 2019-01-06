@@ -4,7 +4,7 @@
             "grade": 1,
             "subjects": [
                 {
-                    "subName": "Eng",
+                    "subName": "English",
                     "units": [
                         {
                             "unitName": "unit 1",
@@ -27,7 +27,7 @@
                     ]
                 },
                 {
-                    "subName": "Math",
+                    "subName": "Mathematics",
                     "units": [
                         {
                             "unitName": "unit 1",
