@@ -9,19 +9,43 @@
                         {
                             "unitName": "unit 1",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         },
                         {
                             "unitName": "unit 2",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         }
                     ]
@@ -32,19 +56,43 @@
                         {
                             "unitName": "unit 1",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         },
                         {
                             "unitName": "unit 2",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         }
                     ]
@@ -60,19 +108,43 @@
                         {
                             "unitName": "unit 1",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         },
                         {
                             "unitName": "unit 2",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         }
                     ]
@@ -83,19 +155,43 @@
                         {
                             "unitName": "unit 1",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         },
                         {
                             "unitName": "unit 2",
                             "chapters": [
-                                { "chapterName": "chap 1" },
-                                { "chapterName": "chap 2" },
-                                { "chapterName": "chap 3" },
-                                { "chapterName": "chap 4" }
+                                { 
+                                    "chapterName": "chap 1",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 2",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                {
+                                    "chapterName": "chap 3",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk"
+                                },
+                                { 
+                                    "chapterName": "chap 4",
+                                    "video_url": "https://www.youtube.com/watch?v=6nwhWxxfczk" 
+                                }
                             ]
                         }
                     ]
